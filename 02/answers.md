@@ -12,7 +12,11 @@ For this we recommend creating a separate Python environment, for example, you c
 
 Once you installed the package, run the command `mlflow --version` and check the output.
 
+Answer -> 
 What's the version that you have?
+2.21.3 
+![image](https://github.com/user-attachments/assets/1a895480-a31b-450b-9ba2-00ee6291d29d)
+
 
 
 
@@ -45,6 +49,10 @@ How many files were saved to `OUTPUT_FOLDER`?
 * 4
 * 7
 
+## Answer -> 4 Files
+![image](https://github.com/user-attachments/assets/fe861d1a-af99-4a6d-8852-473c2b285186)
+
+
 
 ## Q3. Train a model with autolog
 
@@ -71,6 +79,10 @@ What is the value of the `min_samples_split` parameter:
 * 8
 * 10
 
+# Answer : 2 
+![image](https://github.com/user-attachments/assets/3b5594ce-5e69-4ec5-9615-985813a3346c)
+
+
 
 ## Q4. Launch the tracking server locally
 
@@ -89,6 +101,9 @@ In addition to `backend-store-uri`, what else do you need to pass to properly co
 * `serve-artifacts`
 * `artifacts-only`
 * `artifacts-destination`
+
+# Answer : default-artifact-root
+![image](https://github.com/user-attachments/assets/99201597-5047-4427-a8af-bd94d46379e9)
 
 
 ## Q5. Tune model hyperparameters
@@ -114,6 +129,10 @@ What's the best validation RMSE that you got?
 * 5.818
 * 6.336
 
+## Answer : 5.33
+![image](https://github.com/user-attachments/assets/4ef0665a-3e27-48ff-b4a6-800dcb16f40c)
+
+
 
 ## Q6. Promote the best model to the model registry
 
@@ -133,6 +152,11 @@ What is the test RMSE of the best model?
 * 5.567
 * 6.061
 * 6.568
+
+## ANswer : 5.567
+![image](https://github.com/user-attachments/assets/02989a3d-ab77-4b0d-a26c-3cda6beee8e4)
+
+
 
 
 ## Submit the results
